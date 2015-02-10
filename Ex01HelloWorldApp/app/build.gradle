@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    //기존 Manifest.xml에서 사용하던 부분
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.tistory.codedragon.helloworldapp"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    //proguard 설정 및 release 배포 관련 설정
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+//의존성 라이브러리 지정하기
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])    //libs의 모든 jar 파일을 compile한다는 의미
+    compile 'com.android.support:appcompat-v7:21.0.3'   //외부 저장소인 jcenter에서 받아온 jar 파일
+}
