@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\pre-dexed\debug\classes-f060d324eb442ab36e2a422ce4b29f846e809e25.jar" />
+    </item>
+    <item
+        jar="C:\javanAndroid\android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0444551c72399320b7136a30af1bf26ef11d94f1.jar" />
+    </item>
+
+</items>

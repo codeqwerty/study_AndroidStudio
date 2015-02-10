@@ -1,0 +1,3 @@
+C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\classes\debug
+C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\pre-dexed\debug\classes-f060d324eb442ab36e2a422ce4b29f846e809e25.jar
+C:\javanAndroid\git\study_AndroidStudio\47JSONParserDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0444551c72399320b7136a30af1bf26ef11d94f1.jar

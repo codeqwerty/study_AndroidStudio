@@ -1,0 +1,3 @@
+C:\javanAndroid\git\study_AndroidStudio\58SQLiteDemo\app\build\intermediates\classes\debug
+C:\javanAndroid\git\study_AndroidStudio\58SQLiteDemo\app\build\intermediates\pre-dexed\debug\classes-5e3542d0efcedeb3e622a3cad60e69d21d0ab71d.jar
+C:\javanAndroid\git\study_AndroidStudio\58SQLiteDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0444551c72399320b7136a30af1bf26ef11d94f1.jar
